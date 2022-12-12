@@ -1,0 +1,5 @@
+create object from AnimationUtils.LoadAnimation(this,R.anim.id)
+create anime resource directory and add andimations to it
+
+
+yourView.startAnimation(our animation object)
